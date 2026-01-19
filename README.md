@@ -77,4 +77,19 @@ The goal is not just to learn Machine Learning concepts, but to **build industry
 
 ---
 
+# 📘 Day 1 — Mastering NumPy Essentials
+
+## ✅ What I Did Today
+- **Deep Dive into NumPy:** Moved beyond basic usage to a structured, categorical exploration of the library.
+- **Comprehensive Notebook Creation:** Built a dedicated `.ipynb` file documenting every major NumPy function with detailed parameter explanations.
+- **Categorized Learning:** Organized the library into logical modules:
+    * **Array Creation:** `np.array()`, `np.zeros()`, `np.ones()`, `np.linspace()`, and `np.arange()`.
+    * **Array Manipulation:** Reshaping, flattening, stacking (hstack/vstack), and splitting.
+    * **Mathematical Operations:** Element-wise operations, broadcasting, and universal functions (ufuncs).
+    * **Statistical Analysis:** Finding mean, median, standard deviation, and variance.
+    * **Indexing & Slicing:** Advanced slicing and boolean indexing for data filtering.
+- **Hands-on Practice:** Tested various parameters (like `dtype`, `axis`, and `order`) to understand how NumPy handles memory and computation.
+
+---
+
 📌 *This repository will be updated daily with new learnings, implementations, and improvements as part of the 50 Days Machine Learning Challenge.*
