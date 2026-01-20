@@ -92,4 +92,21 @@ The goal is not just to learn Machine Learning concepts, but to **build industry
 
 ---
 
+# 📘 Day 2 — Advanced NumPy: Random & Linear Algebra Modules
+
+## ✅ What I Did Today
+- **Advanced Array Operations:** Explored complex array manipulations and submodules that form the mathematical core of Machine Learning.
+- **Mastering `numpy.random`:** * Implemented various distribution functions: `rand()`, `randn()`, `randint()`, and `choice()`.
+    * Explored **Probability Distributions**: Detailed study of `normal()`, `uniform()`, and `binomial()` distributions with all their parameters (`loc`, `scale`, `size`).
+    * Understood the importance of **Random Seeding** using `np.random.seed()` for reproducible results.
+- **Deep Dive into `numpy.linalg` (Linear Algebra):**
+    * **Matrix Operations:** Solved systems of linear equations using `np.linalg.solve()`.
+    * **Matrix Decomposition:** Implemented **SVD (Singular Value Decomposition)** and **Matrix Factorization**.
+    * **Eigenvalues & Eigenvectors:** Calculated `eig()` and `eigh()` to understand coordinate transformations.
+    * **Determinants & Inverses:** Detailed usage of `np.linalg.det()` and `np.linalg.inv()` with error handling for singular matrices.
+- **Tensor Operations:** Practiced multi-dimensional array operations and contractions.
+- **Documentation:** Every function was documented in a `.ipynb` with a breakdown of all parameters, possible values, and practical examples.
+
+---
+
 📌 *This repository will be updated daily with new learnings, implementations, and improvements as part of the 50 Days Machine Learning Challenge.*
