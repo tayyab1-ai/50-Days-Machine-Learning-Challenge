@@ -109,4 +109,19 @@ The goal is not just to learn Machine Learning concepts, but to **build industry
 
 ---
 
+# 📘 Day 3 — Pandas Essentials
+
+## ✅ What I Did Today
+- **Pandas Foundation:** Started a comprehensive master notebook for Pandas, following a strict categorical structure for quick reference.
+- **Structured Documentation:** Organized the library into professional modules with clear headings and detailed code blocks for every function.
+- **Deep Dive into Categories:**
+    * **DataFrame & Series Creation:** Mastered creating data structures from lists, dictionaries, and NumPy arrays.
+    * **Input/Output (I/O) Operations:** Implemented functions to read and write data across various formats: `read_csv()`, `to_csv()`, `read_excel()`, `read_json()`, and `read_html()`.
+    * **DataFrame Attributes:** Explored metadata using `.shape`, `.columns`, `.index`, `.dtypes`, and `.size` to understand data dimensionality.
+    * **Data Exploration:** Used essential discovery tools like `.head()`, `.tail()`, `.info()`, `.describe()`, and `.nunique()` to get an overview of datasets.
+    * **Sorting & Ranking:** Implemented `sort_values()` (single and multi-column) and `sort_index()` to organize data efficiently.
+- **Technical Detail:** Each function was tested with multiple parameters (e.g., `inplace=True`, `ascending`, `skiprows`, `index_col`) to understand their impact on the dataframe.
+
+---
+
 📌 *This repository will be updated daily with new learnings, implementations, and improvements as part of the 50 Days Machine Learning Challenge.*
